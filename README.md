@@ -1,7 +1,7 @@
-# Project 2: Open Data App using RShiny - Where did our alumni go?
+# Open Data App using RShiny - Where did our alumni go?
 Term: Spring 2018
 
-+ **Group 10 - team members:**
++ **Team Members:**
 	+ Leo Lam 
 	+ Yuhan Zha 
 	+ Yanjun Lin 
